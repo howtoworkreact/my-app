@@ -52,8 +52,4 @@ const Book = ({ img, title, author }) => {
   );
 };
 
-ReactDOM.render(
-  <BookList />,
-
-  document.getElementById("root")
-);
+ReactDOM.render(<BookList />, document.getElementById("root"));
