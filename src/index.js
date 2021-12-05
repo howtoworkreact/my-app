@@ -9,7 +9,7 @@ import "./index.css";
 const books = [
   {
     id: 1,
-    title: "I Love You to the Moon and Back",
+    title: "I Love You to the Moon and Back 2",
     author: "Amelia Hepworth",
     img: "https://images-na.ssl-images-amazon.com/images/I/81eB%2B7%2BCkUL._AC_UL200_SR200,200_.jpg",
   },
